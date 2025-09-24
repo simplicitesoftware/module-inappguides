@@ -1,0 +1,12 @@
+{
+ "tsl_object": {
+  "object": "Guide",
+  "label": "User guide",
+  "userkeylabel": "Create Field",
+  "icon": "img/system/onboarding",
+  "item": {"gde_name": "Create Field"}
+ },
+ "tsl_lang": "ENU",
+ "tsl_value": "Create an object field",
+ "row_module_id__mdl_name": "InAppGuides"
+}

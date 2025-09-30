@@ -1,0 +1,20 @@
+{
+ "res_object": {
+  "object": "Disposition",
+  "label": "Disposition",
+  "userkeylabel": "default",
+  "icon": "img/system/disposition",
+  "item": {"dis_code": "default"}
+ },
+ "res_type": "IMG",
+ "res_lang": "ANY",
+ "res_code": "app-logo",
+ "res_cached": false,
+ "res_file": null,
+ "res_image": {
+  "path": "resources/Disposition/default/app-logo.svg",
+  "mime": "image/svg+xml",
+  "name": "inappguides-logo.svg"
+ },
+ "row_module_id__mdl_name": "InAppGuides"
+}
